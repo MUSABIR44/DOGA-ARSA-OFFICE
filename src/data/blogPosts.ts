@@ -25,7 +25,7 @@ const blogPosts: BlogPost[] = [
       
       <p>Doğa Arsa Ofisi olarak, arsa yatırımı konusunda uzman ekibimizle size en doğru yönlendirmeyi yapmaktan mutluluk duyarız. Sorularınız için bizimle iletişime geçebilirsiniz.</p>
     `,
-    image: 'https://images.pexels.com/photos/7120359/pexels-photo-7120359.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    image: 'https://images.pexels.com/photos/31882962/pexels-photo-31882962/free-photo-of-berrak-mavi-gokyuzunun-altinda-canli-sari-alan.jpeg?auto=compress&cs=tinysrgb&w=600',
     category: 'Yatırım',
     author: 'Ahmet Yılmaz',
     createdAt: new Date('2023-03-15'),
